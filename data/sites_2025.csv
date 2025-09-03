@@ -1,0 +1,527 @@
+OBJECTID,GlobalID,SiteID,Region,Region ID,Site Status,CNDDB EO,Boundary Quality,WMC Site,Latitude,Longitude
+1,0bdd14a8-5e89-4243-94f5-b335d3afa2cf,3031,San Diego,r0009,Active,,High Information Boundary,Yes,32.87092767,-117.24504182
+2,ddef2220-9a19-4c82-b27c-6f7600c247f2,3165,San Diego,r0009,Historic Potential,,Low Information Boundary,Yes,32.87512105,-117.2417135
+3,751442a9-c36b-4d2e-be63-786374fdaeef,3030,San Diego,r0009,Historic,,Low Information Boundary,Yes,32.85472966,-117.24229506
+4,66313723-23e8-4bab-98a4-4ee5c2ab1f1e,3023,San Diego,r0009,Historic,309,High Information Boundary,Yes,32.87925573,-117.23887617
+5,9d690d2c-7567-4275-9650-b80b5e25317e,3032,San Diego,r0009,Historic,,High Information Boundary,Yes,32.88700617,-117.24469555
+6,e7f88df3-27e4-4502-984a-8eaeff861053,3029,San Diego,r0009,Active,336,Unreviewed Boundary,Yes,32.87255215,-117.2388307
+7,df521f78-cc75-46fe-baec-915ef1fbabf3,3033,San Diego,r0009,Historic,,High Information Boundary,Yes,32.87112457,-117.2419742
+8,5b7a7276-7595-44eb-8782-d25b4145d647,2879,Los Angeles,r0004,Active,296,High Information Boundary,Yes,33.9636562,-118.44050879
+9,8cf3fc9e-2d5d-435b-afa9-2d0f1bd06cc0,3027,San Diego,r0009,Active,333,High Information Boundary,Yes,32.72787593,-117.13444138
+10,a1ebaf5a-b4ed-4c21-a85a-50df95a93eaa,2924,Monterey,r0007,Active,78,High Information Boundary,Yes,36.28603188,-121.8537844
+11,4eec5b97-ac6d-4dda-bfd7-5e2d7d24becb,2935,Monterey,r0007,Active,90,High Information Boundary,Yes,36.62621743,-121.93078425
+12,63cfc0a1-0e9b-4451-a0b1-6dc0709a68a2,2830,Alameda,r0001,Active,3,High Information Boundary,Yes,37.89547669,-122.30498935
+13,bfd7bc34-91e9-4a04-9df8-614071e77c6a,2834,Alameda,r0001,Active,324,High Information Boundary,Yes,37.54091711,-122.08126911
+14,1f744f09-b7cf-4ab2-ad61-f1ce990eb9a4,2832,Alameda,r0001,Active,322,High Information Boundary,Yes,37.74342886,-122.22797877
+15,58eb2d24-934a-4434-9dfa-5859f9cf7d41,2833,Alameda,r0001,Active,323,High Information Boundary,Yes,37.69816304,-122.18612171
+17,fb910b46-11eb-491f-9c6f-a8e64fac7f0a,2837,Alameda,r0001,Active,,High Information Boundary,Yes,37.66087536,-122.13754289
+18,da7631c3-a25f-46b8-87ac-040dee66c9e4,2839,Contra Costa,r0002,Active,4,High Information Boundary,Yes,37.91873684,-122.32498577
+19,f1d5a56f-fa55-44cf-a76a-2dbb7edc7956,2840,Contra Costa,r0002,Active,5,High Information Boundary,Yes,37.91721027,-122.33400388
+20,735b9a88-3565-4914-a590-15792512f547,2957,Orange,r0008,Active,314,Unreviewed Boundary,Yes,33.72042032,-118.03367399
+21,70f64c67-4e3e-4532-a719-24dcb16e12a9,2755,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.41114308,-119.87543885
+22,dd4082c2-0d6a-42d5-8792-b6c4df0a6865,2693,Santa Barbara,r0011,Historic Potential,131,Low Information Boundary,Yes,34.9182799,-120.65801739
+23,fea4633d-0d9c-461f-8aad-ce337583fac6,2694,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.88689784,-120.63284704
+24,71afd590-0be1-42bf-b8c0-60b47e0b822b,2696,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.7954229,-120.55671639
+25,4958818c-f961-4fd2-b069-e46b9e13b79d,2697,Santa Barbara,r0011,Historic,,High Information Boundary,Yes,34.77771139,-120.56439435
+26,05427f50-378f-4314-9352-988d1f423ccf,2698,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.79191194,-120.5881527
+27,175a3494-b4b4-4ce0-9915-66226e5fe0c1,2699,Santa Barbara,r0011,Active,287,High Information Boundary,Yes,34.7512022,-120.61177808
+28,ca4695b4-ba68-49f3-afcd-63fef5676d56,2700,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.75755296,-120.58214891
+29,bf12127d-d7f7-4153-a9cf-50430ee786e2,2701,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.73874401,-120.56186113
+30,a706346f-5830-47de-a07f-c2cbe750ae25,2702,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.73410016,-120.55652824
+31,e86dfdc8-7a6a-4867-a92b-2c4a341f05b4,2703,Santa Barbara,r0011,Active,,Low Information Boundary,Yes,34.75208711,-120.54734592
+32,16a9229e-e26b-4016-bb37-2992ef589ab7,2704,Santa Barbara,r0011,Active,,Low Information Boundary,Yes,34.72057016,-120.5551269
+33,adc3aed4-8a6c-4c65-9dea-b43b502a7771,2707,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.70308429,-120.56612083
+34,e4541ee0-97e0-4d61-b006-9dcc54075023,2709,Santa Barbara,r0011,Active,225,High Information Boundary,Yes,34.66101293,-120.56931316
+35,367a6a5e-fa5d-49b8-94e4-ea2030f99aeb,2710,Santa Barbara,r0011,Historic Potential,,Low Information Boundary,Yes,34.65267176,-120.57777019
+36,fe442e8a-f4d5-4e38-aee3-03828e905a85,2711,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.64432516,-120.59856538
+37,86bb26fb-4db3-4a95-82b8-4909cb4f66a9,2712,Santa Barbara,r0011,Active,224,High Information Boundary,Yes,34.63153028,-120.61805968
+38,b2cb8bf7-521b-41b7-ba9f-b4dc058bef56,2713,Santa Barbara,r0011,Active,223,High Information Boundary,Yes,34.63112657,-120.61434866
+39,dccf4a5c-3ad3-4b5c-9c6b-8ae0adf5610a,2714,Santa Barbara,r0011,Active,222,High Information Boundary,Yes,34.62496152,-120.62567111
+40,b7ddadb0-432a-4574-9293-05e6aa86f33d,2715,Santa Barbara,r0011,Historic,221,Low Information Boundary,Yes,34.60441894,-120.61810916
+41,5d9a32e7-8a7d-4417-a29b-f7a5d6162c74,2716,Santa Barbara,r0011,Active,230,High Information Boundary,Yes,34.57808586,-120.6434569
+42,3d4bab7c-6182-4da2-9c19-edea5e1ef9ec,2717,Santa Barbara,r0011,Historic,,High Information Boundary,Yes,34.56571471,-120.63161954
+43,b879f04a-1379-45d1-9d12-984e2afde2d4,2718,Santa Barbara,r0011,Active,228,High Information Boundary,Yes,34.55605547,-120.61061148
+44,7e578524-e0cf-4f2b-9a17-eaacf7a101e1,2692,Santa Barbara,r0013,Historic,,Low Information Boundary,Yes,34.87301641,-120.48379166
+45,2f38d1fe-fdc5-4d98-94bf-e680353b1581,2676,Santa Barbara,r0013,Historic,288,Low Information Boundary,Yes,34.98284027,-120.43873607
+46,25010bb9-8e71-4798-b5d8-e9e16da5051c,2677,Santa Barbara,r0013,Active,290,High Information Boundary,Yes,34.90363987,-120.44540015
+47,8f40cad2-09b7-460d-8e02-1cd77fce5bb6,2690,Santa Barbara,r0013,Potential,,Low Information Boundary,Yes,34.88344477,-120.45861254
+48,040606f8-3ecd-4aae-8939-39535b5ee6a6,2680,Santa Barbara,r0013,Historic,,Low Information Boundary,Yes,34.87990206,-120.45101916
+49,5a90cb30-2e44-4ff8-9295-65f69df85b86,2691,Santa Barbara,r0013,Historic,,Low Information Boundary,Yes,34.88159551,-120.44508721
+50,a79b17b6-e750-432d-89bc-d33684ffa542,2688,Santa Barbara,r0013,Active,,Low Information Boundary,Yes,34.87889972,-120.4332814
+51,430e9250-fa85-4ed4-97f1-1e573f245756,2719,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.56315438,-120.582901
+52,11034e91-d5b1-4448-97c6-eb6f808e1556,2720,Santa Barbara,r0011,Active,227,High Information Boundary,Yes,34.55934609,-120.56070603
+53,068f661e-f57e-498c-a95f-2036e9d1c2b6,2721,Santa Barbara,r0011,Historic Potential,229,Low Information Boundary,Yes,34.53763809,-120.53239353
+54,90a0fc62-46f2-4b99-a957-e0e840420b8f,2722,Santa Barbara,r0011,Historic,133,High Information Boundary,Yes,34.51294033,-120.49953515
+55,5f714347-c5f5-4061-a69a-c3f24d368413,2723,Santa Barbara,r0013,Active,266,High Information Boundary,Yes,34.46179372,-120.44313544
+56,78c87285-3993-4b07-a028-168f46feae24,2724,Santa Barbara,r0013,Active,267,High Information Boundary,Yes,34.45367254,-120.44506845
+57,267c85d3-a16e-4642-a298-46e8f99c94a8,2725,Santa Barbara,r0013,Active,,Low Information Boundary,Yes,34.4661298,-120.36111181
+58,c802c63b-fe6c-4128-836c-a060deb4525c,2726,Santa Barbara,r0013,Historic,284,High Information Boundary,Yes,34.46744887,-120.33846623
+59,ac310681-2fb1-4291-8d9e-8705ac165495,2727,Santa Barbara,r0013,Active,285,High Information Boundary,Yes,34.4688668,-120.31493377
+60,9bb1cf40-3e74-49f9-9db4-42ccf966d2e6,2728,Santa Barbara,r0013,Active,286,Low Information Boundary,Yes,34.47130313,-120.30852701
+61,a16d2e18-6fe6-4dc6-85d0-044ea8e9a303,2729,Santa Barbara,r0013,Historic,,High Information Boundary,Yes,34.47311445,-120.28950243
+62,e1f0f0e1-d594-4bf6-9b4b-6e51120bf503,2730,Santa Barbara,r0013,Historic,,Low Information Boundary,Yes,34.47012609,-120.28186155
+63,52009fd4-5ba6-4bf7-947c-0d4d270d3d02,2731,Santa Barbara,r0013,Active,132,High Information Boundary,Yes,34.47450799,-120.22887821
+64,8950f611-8ab7-40ce-bfd8-3b8dfc2f3464,2734,Santa Barbara,r0013,Active,136,High Information Boundary,Yes,34.47144769,-120.12221719
+65,3c786e0f-f0eb-4d32-8637-50e4e47f4c2a,2735,Santa Barbara,r0013,Active,135,High Information Boundary,Yes,34.46617392,-120.10590543
+66,ad603630-7301-4254-9347-62bcd3e90aac,2736,Santa Barbara,r0013,Historic,,Low Information Boundary,Yes,34.46786236,-120.06969527
+67,3b90bb21-1579-4395-ba24-144ae6309e46,2813,Santa Barbara,r0013,Active,279,Low Information Boundary,Yes,34.47423433,-120.06916668
+68,48cc5712-db6c-4b60-b280-8182126e1cb0,2737,Santa Barbara,r0013,Historic,137,Low Information Boundary,Yes,34.46397132,-120.07161615
+69,fb76760a-329d-44a2-825e-32d337c18416,2738,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.46581319,-120.04530142
+70,4e85ba37-814a-48ea-b7a4-41df157cde49,2739,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.46035912,-120.02267482
+71,46619272-e5a8-4844-93eb-e46d3f353835,2740,Santa Barbara,r0013,Historic,,High Information Boundary,No,34.45607722,-119.99374123
+72,1a5f81a4-2f25-4891-ae86-370639b8605f,2741,Santa Barbara,r0013,Active,313,High Information Boundary,Yes,34.45172552,-119.9789825
+73,6bd69fe4-5280-403b-9a5e-07f01365c28d,2742,Santa Barbara,r0013,Active,143,High Information Boundary,Yes,34.45019406,-119.96849802
+74,da6c3b0d-18f4-4d0b-b711-39259b1cf7aa,2743,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.43665045,-119.92931114
+76,52f1d3fa-23d5-45ab-a6d6-da6361df60d9,2746,Santa Barbara,r0013,Active,278,High Information Boundary,Yes,34.43877917,-119.8994739
+77,bef62fee-25d1-4c37-b101-6c5b725e61e2,2756,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.43719189,-119.88830571
+78,4cb98008-98ad-42a8-bf3e-21e5223ef168,2817,Santa Barbara,r0013,Active,312,High Information Boundary,Yes,34.43815745,-119.8837712
+79,53ebad06-d468-4028-a91a-c75f5be2967d,2757,Santa Barbara,r0013,Historic,,High Information Boundary,Yes,34.44028467,-119.87534575
+80,7b2fa3fe-03c4-46b4-9a74-80f62a7812b3,2747,Santa Barbara,r0013,Active,142,High Information Boundary,Yes,34.4253524,-119.90020579
+81,db53420f-ff1f-49d0-b06f-8ab79e8fb25a,2749,Santa Barbara,r0013,Active,275,High Information Boundary,Yes,34.42737667,-119.89583552
+82,889ef939-6cb5-4c45-bb5b-82561a2cd9a0,2750,Santa Barbara,r0013,Active,140,High Information Boundary,Yes,34.42334656,-119.89431501
+83,a862e834-8538-4026-b0f9-d276a0d038cd,2798,Santa Barbara,r0013,Active,318,High Information Boundary,Yes,34.42534809,-119.89181845
+84,1b8b1dad-6948-4a04-bf98-f73e27ad8194,2751,Santa Barbara,r0013,Active,139,High Information Boundary,Yes,34.42312279,-119.89080105
+85,226dec5a-83f9-4071-9ded-759a842344e0,2752,Santa Barbara,r0013,Active,277,High Information Boundary,Yes,34.42303318,-119.88709243
+86,aab39fd3-2b2d-4caa-b0ac-e09e377b2cf8,2753,Santa Barbara,r0013,Historic,,High Information Boundary,Yes,34.42098064,-119.88501183
+87,8f751a3c-10e3-4721-95f4-515d2e545635,2754,Santa Barbara,r0013,Active,276,High Information Boundary,Yes,34.43035249,-119.88963836
+88,166ec156-864b-4144-ba90-6d9d12c94207,2748,Santa Barbara,r0013,Historic,,Low Information Boundary,Yes,34.43165003,-119.89511653
+89,227b51c9-b2b3-4e36-85a5-f3ec51ef84f6,2758,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.44002133,-119.85412402
+90,77e057fc-863a-4bae-9691-6444c3d0d882,2759,Santa Barbara,r0013,Historic,,High Information Boundary,Yes,34.44329859,-119.85263272
+91,82af8df5-1fe8-4140-a4e2-408d4f16b1d1,2760,Santa Barbara,r0013,Historic,148,High Information Boundary,Yes,34.44351843,-119.84813162
+92,e55ae4ae-f6ff-4347-aba8-63dc00ce7492,2761,Santa Barbara,r0013,Historic,,High Information Boundary,Yes,34.44378708,-119.84475615
+93,b123802f-2f4b-4253-b73e-b5628cd9be27,2762,Santa Barbara,r0013,Historic,149,High Information Boundary,Yes,34.44954874,-119.84579609
+95,ae818bf0-588b-4342-8239-42d9e24d49d3,2763,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.44274171,-119.81732496
+96,75bff619-5525-4f3c-a38d-6f37903d3199,2788,Santa Barbara,r0013,Historic,,High Information Boundary,Yes,34.44363847,-119.80478221
+97,d2365171-c6ea-4641-aeb7-5c49d067822c,2765,Santa Barbara,r0013,Active,273,Low Information Boundary,Yes,34.42283917,-119.82003489
+98,88574d7f-1713-4e54-8807-04aa8a235839,2806,Santa Barbara,r0013,Historic Potential,146,High Information Boundary,No,34.42274869,-119.80652285
+99,ffcdeece-82b4-4444-81f6-13b4afb84d26,2766,Santa Barbara,r0013,Historic,329,High Information Boundary,Yes,34.43975095,-119.77622828
+101,57cfa890-6f13-4a6e-a0c8-b681c3636923,2767,Santa Barbara,r0013,Historic,144,Low Information Boundary,Yes,34.41740629,-119.76649851
+102,8fadb849-83b6-40b4-889c-64032510f6cd,2789,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.42215085,-119.74917992
+104,5d235e40-d31b-487d-831a-d6671cc8d1bd,2770,Santa Barbara,r0013,Active,156,High Information Boundary,Yes,34.40090379,-119.73620471
+105,2f22ad01-223e-45c6-92a7-13d58926fe16,2771,Santa Barbara,r0013,Active,155,High Information Boundary,Yes,34.39837847,-119.72423958
+106,4f605250-aacf-4ee2-ba66-023618787b95,2772,Santa Barbara,r0013,Active,153,High Information Boundary,Yes,34.4050156,-119.70208486
+107,1e907fc1-abdb-476a-9b6c-43f8dda327b5,2773,Santa Barbara,r0013,Historic,152,High Information Boundary,Yes,34.42065525,-119.64936522
+109,900fe4cd-3de2-4461-9207-1a7f63ae8558,2775,Santa Barbara,r0013,Active,157,Low Information Boundary,Yes,34.42444837,-119.64839774
+110,b84895b4-f55d-430e-9bc3-d506fa800377,2776,Santa Barbara,r0013,Active,270,High Information Boundary,Yes,34.43560099,-119.61824147
+111,71c867d3-8fab-4153-a9f1-0f981ebac151,2792,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.42231753,-119.61934586
+113,0b9c1d0c-128c-4881-84de-c95dad050793,2793,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.42326185,-119.61035596
+114,14a6a3a0-d84f-45fe-900b-4ca8c20db283,2794,Santa Barbara,r0013,Historic,,High Information Boundary,Yes,34.42017845,-119.60030524
+115,e5dc5441-3f66-4766-b2e7-f644a50a1f41,2782,Santa Barbara,r0013,Active,271,Low Information Boundary,Yes,34.41779811,-119.5842605
+116,f55fb72e-e192-4852-96d5-a7017d174f9b,2783,Santa Barbara,r0013,Active,161,High Information Boundary,Yes,34.41938152,-119.58036063
+117,34d44af1-cb4c-43a5-bd33-0d07679bc193,2784,Santa Barbara,r0013,Active,159,Low Information Boundary,Yes,34.41316693,-119.57658488
+118,a705cfab-2e9b-46fc-8966-b0c102260510,2796,Santa Barbara,r0013,Active,,Low Information Boundary,Yes,34.41509081,-119.57093258
+119,264a1eba-dbde-49ca-89aa-6705c410a7ca,2799,Santa Barbara,r0013,Active,1,High Information Boundary,Yes,34.39184517,-119.51646915
+120,e9967901-d12a-4b35-809a-a3ffd79d85b4,2800,Santa Barbara,r0013,Active,269,High Information Boundary,Yes,34.38957176,-119.50809343
+121,c54a67fb-2ef0-4dc5-b932-30bf5759bdde,2801,Santa Barbara,r0013,Historic,317,High Information Boundary,Yes,34.38835196,-119.48229738
+122,cf6af2d3-cff4-442f-af5a-71535d4a262c,2802,Santa Barbara,r0013,Historic,163,High Information Boundary,Yes,34.38415312,-119.47569882
+123,15fc6699-def4-4d31-99d3-80cf3084046d,2803,Santa Barbara,r0013,Active,268,High Information Boundary,Yes,34.37876077,-119.47814863
+124,81d08bf7-47f7-4891-9dee-4da59e3bb5f4,2824,Santa Barbara,r0013,Historic Potential,,Low Information Boundary,No,34.86658192,-120.38457635
+125,be969104-0a78-4629-be83-dbf9887e7e57,2820,Santa Barbara,r0013,Historic,,Low Information Boundary,No,34.97029772,-120.60879142
+126,d70e2416-561f-4ece-b827-df14b2efcd83,2744,Santa Barbara,r0013,Active,138,High Information Boundary,Yes,34.43362719,-119.9162882
+127,b5224b5d-22ad-486f-a09b-f6734434b8df,2826,Santa Barbara,r0013,Historic Potential,,Low Information Boundary,No,34.40757387,-119.87838876
+128,edc7b1fc-2049-4157-91ca-681b56e20b8f,2827,Santa Barbara,r0013,Historic,151,Low Information Boundary,No,34.4172076,-119.87065499
+129,ae58a217-5253-4d00-a44b-2ddda0bea447,2828,Santa Barbara,r0013,Historic Potential,,Low Information Boundary,No,34.41527708,-119.68455074
+130,ab983da0-3e3c-4bbe-bbbb-5a39b190bca8,2805,Santa Barbara,r0013,Historic Potential,134,Low Information Boundary,No,34.49220875,-120.09419362
+131,bc82604b-0748-4aaf-8d71-97d1a7d2906b,2829,Santa Barbara,r0013,Potential,,Low Information Boundary,Yes,34.43398821,-119.65689737
+132,e5d121b8-5ddc-4ce1-b449-ce47c882671b,2797,Santa Barbara,r0013,Historic,,High Information Boundary,No,34.41514766,-119.56928932
+133,bbbbced1-b8d0-4865-bcb8-5a25a9cf7482,2808,Santa Barbara,r0013,Historic Potential,150,Low Information Boundary,No,34.42903655,-119.78391959
+134,7760ad9d-8c63-4577-9817-7e63072e021a,2810,Santa Barbara,r0013,Historic,160,Low Information Boundary,No,34.38772079,-119.51220494
+135,0103adfa-968d-4445-9b58-6ce288b76268,2818,Santa Barbara,r0011,Active,319,High Information Boundary,Yes,34.68548973,-120.46733871
+136,8baa2043-0d50-4e03-a642-491fc557eca3,2819,Santa Barbara,r0013,Historic Potential,,Low Information Boundary,No,34.85891326,-120.44590079
+137,db9eabb3-bff6-406b-9334-b079f403136d,2821,Santa Barbara,r0011,Historic,226,Unreviewed Boundary,No,34.6742966,-120.58740476
+138,b180153d-d705-4524-bc9b-ce6772413274,2822,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.67114125,-120.59493855
+139,218fce5b-64b0-4e35-95dc-da1f9c183acd,2823,Santa Barbara,r0013,Historic Potential,,Low Information Boundary,No,34.46753548,-120.10578016
+140,4a7a8a76-5091-417d-83ed-de82d8582251,2809,Santa Barbara,r0013,Historic,154,Low Information Boundary,No,34.39662039,-119.71609186
+141,f6fbf299-738e-4ffa-946c-8d39e2608a53,2811,Santa Barbara,r0013,Historic,164,High Information Boundary,Yes,34.37483795,-119.47821086
+142,5355e6e9-a2ef-4f3c-a06d-1a2b0b132c16,2816,Santa Barbara,r0013,Historic Potential,289,Low Information Boundary,No,34.90629495,-120.44283078
+143,094f6e61-ed58-4188-88af-62e0ca9d53f8,3153,Baja California,r0023,Active,,High Information Boundary,Yes,31.91003137,-116.72038435
+144,fbc07e3a-b994-4723-93b9-a036b3159f8c,3155,Baja California,r0023,Historic,,Low Information Boundary,Yes,32.50266253,-117.04674025
+145,ea5ecd30-9937-4751-aa0b-9be9ccc6e91f,3156,Baja California,r0023,Historic,,Low Information Boundary,Yes,31.72838171,-116.57868409
+146,eafc52db-62bb-4531-8525-e6e12048a561,3157,Baja California,r0023,Historic,,High Information Boundary,Yes,31.92431929,-116.67434992
+147,662e60f1-9842-45b0-83f3-74c3606bc94d,3154,Baja California,r0023,Potential,,Low Information Boundary,Yes,32.09893859,-116.86082226
+148,f2a11c4c-fbc6-41ed-aa6b-b6803415b20f,3119,Mendocino,r0006,Historic,41,Low Information Boundary,Yes,38.8041554,-123.58875772
+149,bc27f8e3-2259-4940-a94c-15aa04eaf5b8,3120,Mendocino,r0006,Historic,42,Low Information Boundary,Yes,38.80692644,-123.58617318
+150,16781bba-abba-4ba9-a616-c14f8491167f,3158,Mendocino,r0006,Historic,,High Information Boundary,No,39.67842672,-123.78823052
+151,ead5cb53-c4b0-4a7f-8e35-04bc511f83b8,3295,Mendocino,r0006,Historic Potential,40,Low Information Boundary,Yes,38.77862316,-123.53857285
+152,ebf3db5f-16d2-44f9-addb-17648c42fe7d,3159,Mendocino,r0006,Historic Potential,,Low Information Boundary,No,39.83482785,-123.84266822
+153,63b949ae-0304-4e1d-abc5-a5ecbd4bbb76,3135,Sonoma,r0016,Potential,39,High Information Boundary,No,38.73921481,-123.49599342
+154,a9a00c03-b874-4b48-8234-5f99ffa937cc,3134,Sonoma,r0016,Historic,38,Low Information Boundary,No,38.73833017,-123.49125998
+155,74dbb8ee-7069-4ef0-a61b-9ee8adcba87b,3133,Sonoma,r0016,Historic,37,High Information Boundary,Yes,38.73275675,-123.4811656
+156,cd9f25d9-f47b-41e5-8e89-95427d83fc33,3132,Sonoma,r0016,Historic Potential,36,Low Information Boundary,No,38.72466371,-123.47021164
+157,47c3d5f2-4907-4b27-9c6a-0f4c911e8e7c,3130,Sonoma,r0016,Potential,34,High Information Boundary,No,38.71757732,-123.45174014
+158,2f0aeb1e-9280-4b00-9647-677f3dd71aab,3131,Sonoma,r0016,Historic Potential,35,Low Information Boundary,No,38.71219687,-123.44529239
+159,2a78dcd8-173d-4d2e-b554-ad5351237ff7,3129,Sonoma,r0016,Historic,33,Low Information Boundary,No,38.6003622,-123.34923966
+160,a4d88d24-802d-4c9c-afda-e858f22cf965,3126,Sonoma,r0016,Historic,30,Low Information Boundary,No,38.54929865,-123.29880224
+161,695f07ce-f7ee-40b7-9f37-f056d18a5c37,3127,Sonoma,r0016,Historic Potential,31,Low Information Boundary,No,38.54855954,-123.29501476
+162,72d1e2dd-828e-4f7a-acbd-ab6dcbafea19,3125,Sonoma,r0016,Historic,29,Low Information Boundary,Yes,38.53420117,-123.27221273
+163,7f3c0658-93aa-4dac-807e-72a653c3a6cf,3128,Sonoma,r0016,Historic,32,Low Information Boundary,No,38.52853329,-123.26339451
+164,6a6d5349-9687-498e-a133-b74f37724fba,3124,Sonoma,r0016,Active,28,High Information Boundary,No,38.51483882,-123.24620754
+165,d58b3d0f-f92b-4ddb-845f-9eb46c135fe8,3136,Sonoma,r0016,Historic Potential,43,High Information Boundary,No,38.40041094,-123.09436994
+166,ae5b637b-09a1-43b7-8c82-c173adf07693,3121,Sonoma,r0016,Active,25,High Information Boundary,Yes,38.34008173,-123.05285437
+167,0130529b-ba8a-4ba1-8aae-4075ff0fd7b2,3138,Sonoma,r0016,Historic,231,High Information Boundary,Yes,38.33877501,-123.05006756
+168,51e58086-ddff-4972-b188-fac484cefdf4,3122,Sonoma,r0016,Historic,26,High Information Boundary,Yes,38.32825756,-123.06043192
+169,dc562fbe-2043-463a-9b90-f7a5944cd3c9,3123,Sonoma,r0016,Historic,27,High Information Boundary,No,38.30993931,-123.06207203
+170,5871ecd7-0a49-4596-9296-4de874297dc4,3137,Sonoma,r0016,Historic Potential,44,Low Information Boundary,No,38.15340008,-122.44645066
+171,92dea209-e395-48fe-8894-a637a5e51fb1,3115,Solano,r0015,Active,19,High Information Boundary,Yes,38.09453657,-122.27036161
+172,24026f99-45cc-4145-9b6a-8df614beb6e9,3117,Solano,r0015,Historic,327,Low Information Boundary,No,38.08077166,-122.24344968
+174,7ce8584b-4d98-4643-8442-06eedefc9d6c,2841,Contra Costa,r0002,Active,24,Low Information Boundary,Yes,37.99938011,-122.35516744
+175,8050a3fe-cff1-4a30-880f-db71d85c9474,3037,San Francisco,r0010,Active,73,High Information Boundary,Yes,37.79572503,-122.47616886
+176,1ed8c47d-feb6-4eb5-9cb4-7420a719756f,3039,San Francisco,r0010,Active,239,High Information Boundary,Yes,37.80702636,-122.42915057
+177,dd57c6e5-dc7f-445c-9c4f-167f7438ff9e,3036,San Francisco,r0010,Historic,72,Low Information Boundary,No,37.80204874,-122.40578444
+178,b6b58285-44a2-4c3e-9f5f-f3826fb231e3,3038,San Francisco,r0010,Historic,238,Low Information Boundary,No,37.771676,-122.48718911
+179,7e8605ae-700e-4b0d-804f-df084dd0371b,3035,San Francisco,r0010,Historic,71,Low Information Boundary,No,37.76673576,-122.50259023
+180,10517cbc-61f6-4399-ab1d-3989395d529d,3034,San Francisco,r0010,Historic Potential,70,Low Information Boundary,No,37.76482003,-122.50162928
+181,54b15f83-80ce-4e50-affc-b97047094a63,3041,San Francisco,r0010,Potential,,Low Information Boundary,Yes,37.76701065,-122.47068453
+182,98562971-cd78-4553-85a4-bccdc9283d29,3040,San Francisco,r0010,Historic Potential,,Low Information Boundary,Yes,37.77067362,-122.50126382
+183,ea3cbadc-af04-4f55-8ef2-84b3c034c385,3109,San Mateo,r0012,Historic Potential,56,Low Information Boundary,No,37.58942454,-122.32135216
+184,c4bbbb93-433e-42e2-887c-0db8c498b3c3,3110,San Mateo,r0012,Historic Potential,64,Low Information Boundary,Yes,37.55360465,-122.50929745
+185,c9e82d42-d50a-4914-abc7-14f1c53c4bbe,3111,San Mateo,r0012,Historic,65,Low Information Boundary,No,37.51073207,-122.48013186
+187,f41ca489-bb1c-49c5-9719-71fef5b0ded9,3113,San Mateo,r0012,Active,245,High Information Boundary,Yes,37.48269778,-122.44850639
+188,8913648d-0934-47a6-aa3e-7bc546c3abfa,3108,San Mateo,r0012,Active,55,High Information Boundary,Yes,37.48431723,-122.44194826
+189,296ea75f-8a86-4ec6-80b4-68683ca0a894,3107,San Mateo,r0012,Active,54,High Information Boundary,Yes,37.40375383,-122.4172985
+190,8592ab91-4fd8-44e7-adaa-e410c5e147d8,3104,San Mateo,r0012,Historic,51,Low Information Boundary,No,37.22854006,-122.40811459
+191,23147c5c-bd82-4c4e-b18d-a8c1f9e303b8,3105,San Mateo,r0012,Historic,52,Low Information Boundary,No,37.22147858,-122.40521732
+192,d35dbfc3-bc16-4727-933c-749522eff01d,3103,San Mateo,r0012,Active,50,High Information Boundary,No,37.18599098,-122.39151842
+193,969dec0d-47eb-4d93-b575-7d021a041635,3106,San Mateo,r0012,Historic,53,Low Information Boundary,No,37.18696494,-122.38457869
+194,8d1a9929-c77d-4089-9a7d-8dabaa31ab94,3100,San Mateo,r0012,Active,47,High Information Boundary,Yes,37.15714787,-122.34931497
+195,d5fe5d4f-3756-4310-91b3-43bb7952538b,3101,San Mateo,r0012,Historic Potential,48,Low Information Boundary,No,37.14021275,-122.31562819
+196,2e1c7e19-7200-48ad-b294-caed88b831eb,3102,San Mateo,r0012,Historic,49,Low Information Boundary,No,37.13608407,-122.30962432
+197,150a3cb3-21cf-43cb-ae38-b4fa2f415cc7,3099,San Mateo,r0012,Historic,46,Unreviewed Boundary,No,37.1343096,-122.31656549
+199,c68ea7e6-8150-4667-b52d-8f550072395a,3009,Santa Cruz,r0014,Active,246,High Information Boundary,Yes,37.02272035,-122.20930732
+200,a4399097-4e08-47d1-9bc1-9e28ff0a258f,3010,Santa Cruz,r0014,Active,247,High Information Boundary,Yes,37.01298935,-122.19612898
+202,67e5ba0d-98fe-464c-be69-353ae6eeeb65,3008,Santa Cruz,r0014,Potential,241,High Information Boundary,Yes,36.97992408,-122.0579006
+203,31ab7b17-cf27-49d9-98a7-2f60adbd3301,2995,Santa Cruz,r0014,Active,100,High Information Boundary,Yes,36.97349468,-122.05630611
+204,574b9e26-fda5-45ce-823e-514896ab56bf,2998,Santa Cruz,r0014,Active,103,Low Information Boundary,Yes,36.95284005,-122.05649009
+205,6837c770-7d53-4e79-801e-18cf982f3ae9,2996,Santa Cruz,r0014,Historic,101,Low Information Boundary,No,36.97956499,-122.04663073
+206,d8033de0-6ea1-4508-ae2c-64edabb0bb90,2994,Santa Cruz,r0014,Historic,99,Low Information Boundary,Yes,36.96281858,-122.0595667
+207,51ac6f6a-1827-440b-8fda-f4219a53ed71,2997,Santa Cruz,r0014,Historic,102,Low Information Boundary,No,36.98075979,-122.03568623
+209,3325e65d-3c6f-48d1-bf6e-f2a9a4ac3d92,3002,Santa Cruz,r0014,Historic,107,High Information Boundary,Yes,36.95374448,-122.04251476
+210,a3579d6e-4903-442b-afbc-409cb14ab424,3007,Santa Cruz,r0014,Historic,240,Low Information Boundary,No,36.95299913,-122.03257687
+211,c8ed46e5-8496-46bc-9a22-1cfbc7539ab0,2999,Santa Cruz,r0014,Historic,104,Low Information Boundary,No,36.95476665,-122.02903026
+212,452b5053-1573-47cf-b213-f3f033c088d4,3000,Santa Cruz,r0014,Active,105,High Information Boundary,Yes,36.95385401,-122.02757134
+213,205cd550-0f88-402e-b2f2-ba96d977fe79,3001,Santa Cruz,r0014,Historic,106,Low Information Boundary,No,36.95558562,-122.02550696
+214,b34ff91c-0452-4da4-a5cb-93ea77ecd449,3005,Santa Cruz,r0014,Active,110,High Information Boundary,Yes,36.97045459,-122.01187173
+215,88deace3-9ff0-4c25-93e3-f2e4ae656041,3004,Santa Cruz,r0014,Historic,109,Low Information Boundary,No,36.96468421,-122.00954076
+216,f655f521-88ab-4a52-85e2-56bdea957e1b,2982,Santa Cruz,r0014,Historic Potential,57,Low Information Boundary,No,36.971792,-121.9771166
+217,0034c9fb-f325-43e9-997f-1cfdd006b0b0,2983,Santa Cruz,r0014,Active,58,High Information Boundary,Yes,36.96004058,-121.97514328
+218,f63861c6-a781-4200-b58a-7d0e2da55c41,2984,Santa Cruz,r0014,Active,59,Low Information Boundary,Yes,36.97808998,-121.95683312
+219,e9bd180e-74e5-462e-b372-29b2544e68cc,2985,Santa Cruz,r0014,Active,60,High Information Boundary,Yes,36.97664726,-121.9444233
+220,ff2d4a01-6ed9-4316-ae02-3b40c08858a4,2986,Santa Cruz,r0014,Active,61,Low Information Boundary,Yes,36.97979108,-121.92991725
+221,03348e1a-c53e-469c-8e93-f11f6aa31767,2987,Santa Cruz,r0014,Historic Potential,62,Low Information Boundary,No,36.97913829,-121.92313957
+222,91fda030-423b-484b-b308-41858cfb29ae,2988,Santa Cruz,r0014,Active,63,High Information Boundary,Yes,36.96479904,-121.88628382
+223,5dda8d10-7ea3-435a-87e1-0c8a21661bc6,2992,Santa Cruz,r0014,Historic,97,Low Information Boundary,No,36.93902164,-121.86287264
+224,34481630-3455-4d8d-b068-35b6de97635a,2991,Santa Cruz,r0014,Historic Potential,96,Low Information Boundary,No,36.93782646,-121.85864296
+225,07a456f5-25a5-479f-8282-9f9c9b70cc07,2989,Santa Cruz,r0014,Historic,93,High Information Boundary,Yes,36.91648545,-121.85098543
+226,1f7d628b-1081-4d5b-aabf-61d28d3161a3,2990,Santa Cruz,r0014,Active,94,High Information Boundary,Yes,36.86813728,-121.81911066
+227,5c3a785b-65da-4da4-99e3-f45be5d8bed8,2943,Monterey,r0007,Historic,334,Low Information Boundary,Yes,36.83546883,-121.77011984
+228,841acfb0-759b-42c7-8183-185390d14a81,2938,Monterey,r0007,Active,95,Low Information Boundary,Yes,36.80987299,-121.77257857
+229,d235cea5-b428-4332-966d-e809e2cd678f,2927,Monterey,r0007,Active,82,Unreviewed Boundary,Yes,36.60061841,-121.87445547
+230,98a0a00e-67b5-4388-8157-fababcb33ced,2931,Monterey,r0007,Historic,86,Unreviewed Boundary,Yes,36.63210454,-121.93040176
+232,5ffb9a11-b508-4d7c-a146-dd3078feb5eb,2934,Monterey,r0007,Historic,89,High Information Boundary,Yes,36.62074543,-121.9283119
+233,57a9dca8-146b-4a18-85e4-feae0a1e5df9,2929,Monterey,r0007,Historic Potential,84,Low Information Boundary,No,36.57741376,-121.97144234
+234,cef218c1-c4d3-4c63-a4f8-519190e145be,2937,Monterey,r0007,Historic Potential,92,Low Information Boundary,No,36.60011126,-121.95474272
+235,0528509b-3019-4dc3-be3a-9ad1b5f88add,2928,Monterey,r0007,Historic,83,Low Information Boundary,No,36.54918526,-121.91634565
+236,c6f1daeb-be12-4b93-a492-bd2a441fb066,2939,Monterey,r0007,Historic,141,Low Information Boundary,No,36.51624773,-121.93750262
+237,b4257237-074d-45ec-b6c0-efff1f3218f7,2933,Monterey,r0007,Historic Potential,88,Low Information Boundary,No,36.50089337,-121.92926675
+238,60be56b5-3a37-4c4f-b73a-bd9220a25762,2930,Monterey,r0007,Historic,85,Low Information Boundary,No,36.50198586,-121.93386756
+239,6ff24e1f-df96-4962-b4d5-bee18462b5e1,2932,Monterey,r0007,Historic,87,Low Information Boundary,No,36.50192259,-121.93209074
+240,b6092103-3d03-42a2-8650-9e88af90f536,2926,Monterey,r0007,Active,81,High Information Boundary,Yes,36.39937607,-121.90337386
+241,eedb7d61-5fb4-4bf6-bedc-5db0b97fcde5,2925,Monterey,r0007,Historic,79,Low Information Boundary,Yes,36.30097547,-121.87949219
+242,97b4c42c-02e7-4567-a643-391df3b2ee5c,2923,Monterey,r0007,Active,77,Unreviewed Boundary,Yes,36.2384568,-121.81387538
+243,93634a39-b078-4630-ae75-d8163b177a85,2922,Monterey,r0007,Historic Potential,76,Low Information Boundary,No,36.2155938,-121.75279473
+244,06d234da-0faa-4aa5-99ea-964e34fe2ac5,2921,Monterey,r0007,Historic,75,Low Information Boundary,Yes,36.16155747,-121.66715656
+245,f9365731-c710-49e6-9c45-a53498f2b386,2940,Monterey,r0007,Historic,242,Low Information Boundary,Yes,36.07083261,-121.59947056
+246,822a3066-09a3-459b-9247-be4a71bc69cd,2941,Monterey,r0007,Active,243,High Information Boundary,Yes,35.91815967,-121.46644152
+247,09456e6a-2409-4dfc-9a7b-acbc2bd2cbda,3160,Monterey,r0007,Historic,,High Information Boundary,Yes,35.93583143,-121.46868887
+248,eae71b35-e27f-465e-a226-90a7f86223a7,3044,San Luis Obispo,r0011,Historic,111,Unreviewed Boundary,Yes,35.77140561,-121.3237269
+249,1cf413af-1266-4f7c-9d82-19d24e77fca4,2908,Marin,r0005,Historic Potential,22,Low Information Boundary,No,38.24919498,-122.96393084
+250,4dd254af-35e0-4382-883f-46ab08eaeb5a,2903,Marin,r0005,Active,16,Low Information Boundary,Yes,37.8997613,-122.64204472
+251,bf3ca39c-bad8-4451-8f14-1005b8528ef0,2905,Marin,r0005,Historic,18,Low Information Boundary,Yes,37.90075296,-122.64305022
+252,452c1a3e-22dd-4df9-9da1-c906b43b020e,2896,Marin,r0005,Historic,8,High Information Boundary,Yes,37.86158233,-122.57858144
+253,355a4e1d-127f-4f3d-b033-af5908858f20,2897,Marin,r0005,Historic,9,High Information Boundary,Yes,37.86297428,-122.57570958
+254,f3bac213-9313-4f00-9cc1-ca5f7336aa4e,2919,Marin,r0005,Historic Potential,321,Low Information Boundary,No,37.86526775,-122.57389189
+255,5da6102b-1dc6-4bc9-a700-ccaa0f800915,2678,Marin,r0005,Historic,7,Low Information Boundary,No,37.85481175,-122.5388489
+256,16a9a3ce-527d-4f30-9414-07b22f9ff0b8,2675,Marin,r0005,Active,6,High Information Boundary,Yes,37.82929515,-122.5199897
+257,af6bebea-abbd-43af-b10f-f7445c304c3e,2909,Marin,r0005,Active,67,High Information Boundary,Yes,37.83779933,-122.4747532
+258,9bc85932-72e6-405d-866d-609da012445d,2911,Marin,r0005,Historic,69,Low Information Boundary,No,37.85676359,-122.42249274
+259,0d9fadd2-14a3-4b9f-9d70-fcebdd647cfa,2910,Marin,r0005,Historic,68,Low Information Boundary,No,37.86142244,-122.42180023
+260,8fca1825-2e43-458a-88bd-e9a77208174e,2906,Marin,r0005,Historic Potential,20,Low Information Boundary,No,38.00171591,-122.4638365
+261,47820cd6-8527-40ab-8f77-e4247ee8d2eb,2902,Marin,r0005,Historic,15,Low Information Boundary,No,37.99106369,-122.45215183
+262,8a45dd55-5118-41da-812c-44fb4f588556,2852,Kern,r0024,Historic Potential,201,Low Information Boundary,No,35.44773448,-118.91454114
+263,dba5b29a-5d2c-498c-bdcc-376cb1fc3e78,2853,Kern,r0024,Historic Potential,202,Low Information Boundary,No,35.43773477,-118.86370646
+264,f6834f68-287a-4655-aee7-3156c2ec3f7e,2850,Kern,r0024,Historic Potential,199,Low Information Boundary,No,35.38861126,-118.98620888
+265,5739f374-ec58-4ba9-b32b-4cc4ffe83565,2851,Kern,r0024,Historic Potential,200,Low Information Boundary,No,35.40453127,-118.98265025
+266,7ec27010-2cd2-4fea-acf5-32ea5173bcf9,2847,Inyo,r0003,Active,197,High Information Boundary,Yes,36.75897911,-117.89736403
+267,f48f3082-3430-43a4-9fc8-0bf87876e947,2846,Inyo,r0003,Active,196,High Information Boundary,Yes,36.70123766,-117.84175987
+268,730d744e-0740-4953-9923-3d64b7ff4d67,2848,Inyo,r0003,Active,198,High Information Boundary,Yes,36.84376853,-117.92325366
+269,e4374746-cbb6-4caa-bc5e-5bc1a5737acd,3075,San Luis Obispo,r0011,Historic Potential,260,Low Information Boundary,No,35.7655212,-121.31922547
+270,8e9632b6-8a54-4b1c-9c90-b5aae25948da,3045,San Luis Obispo,r0011,Active,112,High Information Boundary,Yes,35.64413352,-121.19235918
+271,e671da3e-2781-4a47-b610-0d37ed1616ed,3074,San Luis Obispo,r0011,Historic Potential,259,Low Information Boundary,No,35.65594133,-121.18698628
+272,681a1978-ee39-4d4f-852f-542e4a30d41c,3071,San Luis Obispo,r0011,Active,256,High Information Boundary,Yes,35.59795302,-121.11387918
+273,53d042a9-7e34-42e8-bc67-7062adab4487,3072,San Luis Obispo,r0011,Active,257,Low Information Boundary,Yes,35.59510636,-121.1149812
+274,40c0cd6d-131d-4a8b-9d5e-03058a6a656a,3073,San Luis Obispo,r0011,Active,258,High Information Boundary,Yes,35.59008818,-121.11560645
+275,09d88459-56ff-4ab1-9bf1-f0bc6c56f455,3084,San Luis Obispo,r0011,Historic,325,Low Information Boundary,No,35.57951402,-121.10704093
+276,bb731b22-cde1-4301-b1c5-8389a9ace1b7,3048,San Luis Obispo,r0011,Historic,115,Low Information Boundary,No,35.57330446,-121.10380375
+277,3005c8da-a7e0-4e1c-805e-9e1c938246a1,3047,San Luis Obispo,r0011,Historic,114,Low Information Boundary,No,35.57326813,-121.09953004
+278,f4dd4766-2492-46dd-a719-e8b52d8bcbc9,3046,San Luis Obispo,r0011,Active,113,Low Information Boundary,Yes,35.55194906,-121.09336489
+279,18db7bc4-97ac-4d6d-a8b3-043504a21f1b,3085,San Luis Obispo,r0011,Active,326,Low Information Boundary,Yes,35.48673735,-120.99993076
+280,f1301ed9-e379-43c4-9508-f5007196ecc5,3070,San Luis Obispo,r0011,Active,255,High Information Boundary,Yes,35.47280526,-120.97578976
+281,56852426-b04b-4a8b-970f-f99b4e05508b,3049,San Luis Obispo,r0011,Active,116,High Information Boundary,Yes,35.45027975,-120.9021693
+282,20b42e4f-5b3f-481d-b9ed-c2ce024b99a2,3051,San Luis Obispo,r0011,Active,118,High Information Boundary,Yes,35.4162548,-120.86892504
+283,92ef4716-70c5-4f04-8c41-da6e7ee7c29f,3050,San Luis Obispo,r0011,Historic Potential,117,Unreviewed Boundary,No,35.39700532,-120.857318
+285,c7129660-4542-4164-975e-5b60949647be,3076,San Luis Obispo,r0011,Active,261,High Information Boundary,Yes,35.37250949,-120.85181329
+286,9da8c7cf-1bcc-4a07-8036-8da94d847d2f,3077,San Luis Obispo,r0011,Historic,262,High Information Boundary,Yes,35.36122953,-120.85036343
+287,119088bb-92ff-45eb-bf31-0859e67e949c,3079,San Luis Obispo,r0011,Active,264,High Information Boundary,Yes,35.3550223,-120.83199077
+288,57157ff6-9dc5-433b-ae02-d9a2c4d40875,3080,San Luis Obispo,r0011,Historic,265,High Information Boundary,Yes,35.35199523,-120.84359539
+289,4e271b98-d648-49dc-a67c-7df94e8e096c,3055,San Luis Obispo,r0011,Active,122,High Information Boundary,Yes,35.34816382,-120.83826866
+290,70301832-f769-4674-9cf9-868d92af451f,3078,San Luis Obispo,r0011,Historic,263,High Information Boundary,No,35.35922306,-120.82700492
+291,b83176df-9ea2-4ed1-b324-fd6d3c6f3b7a,3054,San Luis Obispo,r0011,Active,121,High Information Boundary,Yes,35.32100019,-120.84148839
+292,9d2f0abc-9aac-4c83-89c4-737af71c0f04,3043,San Luis Obispo,r0011,Active,2,High Information Boundary,Yes,35.31505917,-120.85099794
+293,e479fc29-d178-4c9e-8df3-d91f5b8d8e89,3053,San Luis Obispo,r0011,Active,120,Low Information Boundary,Yes,35.31117223,-120.85934786
+294,aabd6c10-66b9-4480-9d10-e37c66df6b25,3052,San Luis Obispo,r0011,Active,119,High Information Boundary,Yes,35.28843845,-120.87991252
+295,539f5d0d-d7fd-40e2-ae25-ab90765c3f83,3058,San Luis Obispo,r0011,Active,125,High Information Boundary,Yes,35.28479582,-120.87921829
+296,c8ff49af-6fc1-4e16-995e-2e95f11960a0,3081,San Luis Obispo,r0011,Active,291,High Information Boundary,Yes,35.26750951,-120.88795361
+297,1d3c5b50-6709-447c-b178-8c56c2ce93c2,3095,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.29815542,-120.6698903
+298,a4dfdc8b-3a1d-461b-a027-2ef0f9d1962e,3090,San Luis Obispo,r0011,Active,,Low Information Boundary,Yes,35.2780125,-120.65307503
+299,be52dbd0-e48f-4857-8e03-65509d2136ff,3087,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.28021172,-120.64681445
+301,7d234d5e-caa0-412a-9c76-60350447cd7c,3191,Alameda,r0001,Active,,High Information Boundary,Yes,37.70607609,-122.19482053
+302,f9f09de1-a58d-4a44-bbfe-9f420d75a257,3059,San Luis Obispo,r0011,Historic,126,Low Information Boundary,No,35.27011504,-120.67189054
+303,3a51190b-3e71-4f26-af0d-ad65f03ed7ca,3093,San Luis Obispo,r0011,Active,,Low Information Boundary,Yes,35.26168978,-120.67142204
+304,7ad0d633-6660-43e0-8635-cfab320175a0,3068,San Luis Obispo,r0011,Active,253,High Information Boundary,Yes,35.25703374,-120.68299469
+305,445babd9-2b6d-441d-957b-38b49527f29b,3086,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.18177355,-120.72490539
+306,bee7cdf8-e966-404c-a57a-80c86c3a9972,3098,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.14236986,-120.63704649
+307,be9c3f40-2e8a-46fe-a8b2-fffcab04b523,3063,San Luis Obispo,r0011,Historic Potential,130,Low Information Boundary,No,35.11029418,-120.62288616
+308,085de29b-87d2-42c4-aefb-2b443d836583,3065,San Luis Obispo,r0011,Active,250,High Information Boundary,Yes,35.10623213,-120.59609649
+309,a881ad97-ca60-46f5-8411-8c8b02b5876d,3064,San Luis Obispo,r0011,Active,249,High Information Boundary,Yes,35.1059615,-120.60079159
+310,81f2c763-461b-4336-ac60-1897724e6d9c,3066,San Luis Obispo,r0011,Historic,251,High Information Boundary,Yes,35.10407738,-120.59403894
+311,1fe950b4-9988-40aa-9b44-77c039e7dde6,3067,San Luis Obispo,r0011,Active,252,High Information Boundary,Yes,35.10091239,-120.59505349
+312,b93de3ba-a0d4-43da-9f8c-5b55d842fcda,3062,San Luis Obispo,r0011,Historic,129,Unreviewed Boundary,Yes,35.04734835,-120.57116612
+313,b93a7d48-ac47-4eb2-b7c8-0c64c3272f7a,3167,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.02876626,-120.55358153
+314,10deb4b7-c510-4380-b9b9-f43a5c8d1e75,2915,Marin,r0005,Active,235,High Information Boundary,Yes,37.91098269,-122.69118843
+315,c4cb520c-12dd-4195-b95e-8bb20a2bb868,2899,Marin,r0005,Active,11,High Information Boundary,Yes,37.90660629,-122.70706535
+316,6690c74e-5a9c-4b33-94de-0d2b84ded257,2901,Marin,r0005,Historic,13,High Information Boundary,Yes,37.90370275,-122.69153189
+317,e5aa1c5c-4bab-4f51-9b98-98060726e176,2912,Marin,r0005,Active,232,Low Information Boundary,Yes,37.8992023,-122.70985574
+318,6c075c51-1ac8-4ce4-86ee-f6fd1f10a89f,2898,Marin,r0005,Historic,10,Low Information Boundary,No,37.89824419,-122.70388019
+319,bd46550d-db98-4121-a2e4-20ea3f962638,2917,Marin,r0005,Historic,237,Low Information Boundary,No,37.90044837,-122.70100833
+320,1ddf46cc-bdb6-4f91-8552-4cdc3fdb05ec,2900,Marin,r0005,Historic,12,Low Information Boundary,No,37.90323664,-122.70122385
+321,2967cf12-a1f6-428e-b38c-74923ea39786,3163,Marin,r0005,Potential,,Unreviewed Boundary,No,37.9088791,-122.69072682
+322,2c7b8e6e-ef43-4773-9890-e3bfe6503b24,2913,Marin,r0005,Historic,233,Low Information Boundary,Yes,37.91541286,-122.71015434
+323,1e79e9b2-590d-43da-aef4-b364d94b6fd5,2914,Marin,r0005,Historic Potential,234,High Information Boundary,No,37.91716897,-122.70814271
+324,8f01de4b-cb8f-494b-ad9d-e085ba09fd77,3164,Marin,r0005,Historic Potential,,High Information Boundary,No,37.91785618,-122.71474789
+325,a3d34e51-0917-4a95-b6fd-cef2e2856dd1,2918,Marin,r0005,Historic Potential,316,Low Information Boundary,No,37.91466523,-122.72779118
+326,1e7850bc-c1cc-420b-9137-57ae248ac38e,3168,Marin,r0005,Historic Potential,,Low Information Boundary,No,37.91866692,-122.69377438
+327,7bfe9259-7bce-4e9b-9162-10ca57e47679,2907,Marin,r0005,Historic Potential,21,Low Information Boundary,No,38.08470386,-122.95422371
+328,47510a70-d33c-4a86-9c0a-a4e665ff9fc7,3056,San Luis Obispo,r0011,Active,123,High Information Boundary,Yes,35.35600598,-120.83705159
+329,1c5752c8-3c35-4806-b7ff-26ecf197b669,3150,Ventura,r0017,Active,294,Low Information Boundary,Yes,34.28262686,-119.31146092
+330,82e649e1-a7cf-4a59-b626-a7515cfff0dc,3141,Ventura,r0017,Historic,167,Low Information Boundary,No,34.27649092,-119.30879627
+331,1e976aa7-8c84-4acf-bbc7-1d7c5b326a40,3139,Ventura,r0017,Active,165,High Information Boundary,Yes,34.26450443,-119.26533314
+332,9b29bb51-ee82-41b1-8a74-1fe46ba4f0f3,3151,Ventura,r0017,Active,311,High Information Boundary,Yes,34.25959202,-119.26216843
+333,9fcbfcca-374c-4faa-a519-d040540fea91,3143,Ventura,r0017,Active,169,Low Information Boundary,Yes,34.27011442,-119.2351723
+334,d577fb35-b2fa-4fc6-9230-346bb14d00dc,3145,Ventura,r0017,Historic,171,Low Information Boundary,No,34.26778096,-119.21622023
+335,af357bb1-de29-4d07-853e-e622675db225,3142,Ventura,r0017,Active,168,High Information Boundary,Yes,34.27941169,-119.22192133
+336,d457666a-8369-4432-ac3a-4fb5ebcdf7c7,3144,Ventura,r0017,Active,170,Low Information Boundary,Yes,34.26533535,-119.19599982
+337,d2fbf6b3-f62f-42de-978a-8d8739f04509,3146,Ventura,r0017,Historic Potential,172,Low Information Boundary,Yes,34.1623164,-119.14933547
+338,441aebe3-4257-4a5e-8cc3-2fb2b74a28c9,3147,Ventura,r0017,Historic Potential,174,Low Information Boundary,Yes,34.08546419,-119.03613396
+339,6bdf3ce8-d97e-4e51-9fe5-73b7a71a1908,3149,Ventura,r0017,Active,293,High Information Boundary,Yes,34.07334787,-119.01480709
+340,e2889c05-1329-4b72-b66f-c941ca5ebfc5,3148,Ventura,r0017,Active,175,High Information Boundary,Yes,34.05715401,-118.96549295
+341,8e927c1f-2f3a-4404-b820-53c78dd73a38,2855,Los Angeles,r0004,Active,176,High Information Boundary,Yes,34.04922488,-118.93429276
+342,f827076f-3231-4275-b709-ffd7be129353,2856,Los Angeles,r0004,Historic,177,High Information Boundary,Yes,34.04103846,-118.89782296
+343,7bfa9ecc-85e8-40db-851b-0e5315c00904,2857,Los Angeles,r0004,Historic,178,Low Information Boundary,Yes,34.03761233,-118.86993018
+344,f8e3dc6c-64c6-41c6-b350-ea0fe10dbd56,2858,Los Angeles,r0004,Active,179,High Information Boundary,Yes,34.03134603,-118.83991092
+345,ba432be8-3433-4690-a732-3884bec6f2a4,2883,Los Angeles,r0004,Active,315,Unreviewed Boundary,Yes,34.01726022,-118.81954662
+346,a4b5930f-ad21-4133-a238-ffa843d7edd3,2859,Los Angeles,r0004,Historic,180,Unreviewed Boundary,No,34.02546722,-118.81409881
+348,6e6a1848-3ae6-4e4d-b505-59d30914fce9,2864,Los Angeles,r0004,Historic,185,Low Information Boundary,No,34.02139635,-118.78797911
+349,64c0bce4-0de0-4314-bf42-a129536c3092,2865,Los Angeles,r0004,Historic,186,Low Information Boundary,No,34.02391466,-118.78225731
+350,2a74abdd-a50e-4d37-b3b6-7b66a116e6c7,2863,Los Angeles,r0004,Historic,184,Unreviewed Boundary,No,34.02850413,-118.76518022
+351,4cea2a8c-49a2-4b7d-99bb-0b865f51c0f0,2862,Los Angeles,r0004,Historic,183,Low Information Boundary,No,34.03136428,-118.79625337
+352,9881e4ab-2236-4b7a-b917-a3e28d8910d4,2861,Los Angeles,r0004,Historic,182,Unreviewed Boundary,Yes,34.00874307,-118.79815219
+353,411d230a-52f6-4f9a-b2c0-dda6572d99c5,2866,Los Angeles,r0004,Active,187,Unreviewed Boundary,Yes,34.04195195,-118.68091871
+354,f4ff5f0e-2138-45ad-bc6a-fb77471a2729,2876,Los Angeles,r0004,Historic,219,Low Information Boundary,No,34.03941164,-118.68002921
+355,151470b7-0b17-479c-a3d1-6828268daf77,2877,Los Angeles,r0004,Historic,220,Low Information Boundary,No,34.03586476,-118.6815602
+356,df13ca54-6dec-42e6-af21-65281ff76144,2869,Los Angeles,r0004,Active,190,High Information Boundary,Yes,34.04481011,-118.56445525
+358,cc38b32a-3168-41f2-9dab-8e6ebcd43644,2868,Los Angeles,r0004,Historic,189,Low Information Boundary,No,34.05339931,-118.53679345
+359,7820c7c3-1a44-4a59-9263-f44b4b64e357,2870,Los Angeles,r0004,Historic,191,Low Information Boundary,No,34.03705286,-118.51543268
+361,09500686-1dbe-45b1-84f0-f119419782ce,2871,Los Angeles,r0004,Historic Potential,192,Unreviewed Boundary,No,34.02250758,-118.49583019
+362,fb81ea90-a992-47d5-9b0c-a25b218e1fda,2884,Los Angeles,r0004,Active,337,Low Information Boundary,Yes,34.04860018,-118.4823255
+363,e3151faf-bd0f-44a9-8d57-802cef2668e8,2873,Los Angeles,r0004,Historic Potential,194,Low Information Boundary,No,34.04386237,-118.47164043
+364,696cc004-b80d-420f-b5ed-54237f13622c,2874,Los Angeles,r0004,Active,195,High Information Boundary,Yes,34.00601086,-118.4612672
+365,0a8fee26-0dda-4523-b9e1-0c423696b946,2886,Los Angeles,r0004,Historic,339,Low Information Boundary,No,33.92114373,-118.4118641
+366,56e5812f-f2b0-4021-9d25-1a7d6eb0e146,2881,Los Angeles,r0004,Active,298,High Information Boundary,Yes,33.82968015,-118.37393423
+368,71e94a4d-ccd3-4935-80f2-f73fae7e5a89,2878,Los Angeles,r0004,Historic,295,Low Information Boundary,No,34.30901004,-118.51255383
+369,9b8c9332-3709-4a67-abcd-8eebeaa231f0,2885,Los Angeles,r0004,Historic,338,High Information Boundary,No,33.7068827,-118.29416697
+370,ba0b6c4f-68ff-496d-8682-10990b0ad543,2875,Los Angeles,r0004,Active,218,High Information Boundary,Yes,33.83102717,-118.1322846
+371,a3fd9e84-525a-466c-b58b-d8d84b8f20e5,2882,Los Angeles,r0004,Historic,299,Unreviewed Boundary,Yes,33.80706603,-118.08833549
+373,0ef9e55d-4de2-4a0b-963f-68373850f9be,2954,Orange,r0008,Active,303,Low Information Boundary,Yes,33.74971731,-118.09482339
+375,b1b37b79-595b-4c94-b402-f32141615b0b,2953,Orange,r0008,Historic Potential,302,Low Information Boundary,No,33.57553076,-117.84059827
+376,09b28ea2-0ef1-4acb-a461-bbe86422db6c,2952,Orange,r0008,Historic,301,Unreviewed Boundary,No,33.54891044,-117.80656302
+377,2ec4045d-7a54-4399-9db9-5374d2a582a9,2947,Orange,r0008,Active,206,High Information Boundary,Yes,33.4632637,-117.68649187
+378,bb387bda-5747-4285-ae13-fa239cd64c56,2951,Orange,r0008,Historic,214,Low Information Boundary,No,33.41575646,-117.61142482
+379,43b1f51a-10f9-4588-b117-bae5752cbb77,2956,Orange,r0008,Historic,310,Low Information Boundary,No,33.41136287,-117.60396803
+380,7aaa8e73-1a9c-451a-81e6-4567dd698b24,2948,Orange,r0008,Historic,211,Low Information Boundary,No,33.41196451,-117.60593937
+381,bf000763-a8fd-4b93-9a70-f622ebde327f,2949,Orange,r0008,Active,212,High Information Boundary,Yes,33.40450915,-117.59931328
+382,7a457b20-4b01-466d-ba3f-178174085529,2950,Orange,r0008,Active,213,High Information Boundary,Yes,33.39406129,-117.59800833
+383,967756ff-0689-4519-a549-063777ed8141,3012,San Diego,r0009,Active,207,Low Information Boundary,No,33.25626259,-117.40650055
+384,4eaf5b96-57e5-4109-8998-408739696837,3018,San Diego,r0009,Active,300,High Information Boundary,Yes,33.23158534,-117.39710338
+385,7c01f514-7e47-4f86-9dc3-1e5611ecab8f,3013,San Diego,r0009,Historic,208,Low Information Boundary,Yes,33.17691382,-117.3344398
+386,b49b8b7b-1ef5-471a-b750-850e2ac8cba4,3140,Ventura,r0017,Active,166,High Information Boundary,Yes,34.27351666,-119.27962835
+387,1721c22f-577b-4276-81fa-ebd5dfb73d55,3024,San Diego,r0009,Historic,330,High Information Boundary,Yes,33.162831,-117.32002742
+388,66979d71-abfb-4979-b31c-6c319457ba08,3025,San Diego,r0009,Historic,331,Unreviewed Boundary,Yes,33.05838684,-117.27944397
+389,4fd2edb7-7970-449d-a85c-889dbe3ab958,3014,San Diego,r0009,Historic,209,Unreviewed Boundary,Yes,33.05299409,-117.28052077
+390,bc560e35-d466-46e1-b991-d01ccf2a2236,3028,San Diego,r0009,Historic,335,Unreviewed Boundary,Yes,32.9988086,-117.23491103
+391,b0b33022-f670-49e1-928f-6db0020e36bd,3022,San Diego,r0009,Historic,308,Unreviewed Boundary,Yes,32.96162898,-117.2588585
+392,a0559ae9-f5c9-4dbb-a1bd-129201afa9f0,3020,San Diego,r0009,Historic,306,Unreviewed Boundary,Yes,32.945398,-117.25532924
+393,4d711c55-4641-42b2-836e-c2b9a6b35ae9,3021,San Diego,r0009,Historic,307,Low Information Boundary,No,32.90671537,-117.24521921
+394,708efbec-8b62-4bc8-9695-5076040d44a9,3016,San Diego,r0009,Historic,215,Unreviewed Boundary,Yes,32.75780404,-117.19303417
+395,d8332002-d76d-456b-9762-f2d1f316e37b,3220,San Diego,r0009,Historic Potential,216,Low Information Boundary,No,32.73617027,-117.15187912
+396,e053b14e-e1e2-4f02-959b-c9afd16284de,3026,San Diego,r0009,Historic,332,Low Information Boundary,Yes,32.73125783,-117.15880128
+397,1c265110-286a-434e-8330-21814b455e8a,3019,San Diego,r0009,Historic,305,Unreviewed Boundary,Yes,32.64875358,-117.08969273
+398,e0e33d59-2589-47ab-b876-e5c0e1859e42,2836,Alameda,r0001,Active,,High Information Boundary,Yes,37.52423685,-122.00356365
+399,ed2f4368-7444-455d-9306-890bc82059c1,2894,Los Angeles,r0004,Historic,297,High Information Boundary,Yes,33.80375959,-118.38196724
+400,61e0ebbf-1c8a-42f0-a3f7-3dabaeeab066,2893,Los Angeles,r0004,Active,297,High Information Boundary,Yes,33.80363857,-118.38829509
+401,af5e802b-973d-4534-bd4f-d4621b3cd78a,2887,Los Angeles,r0004,Historic,,Unreviewed Boundary,Yes,33.79028949,-118.25813945
+402,23e5055e-54cb-4089-9cba-4149e42aa65e,2888,Los Angeles,r0004,Active,,High Information Boundary,Yes,33.91470567,-118.40022174
+403,5d34e664-f325-43ca-883c-c0ebecdc9b82,2891,Los Angeles,r0004,Historic,,High Information Boundary,Yes,33.77444676,-118.13551047
+404,a5e18bbb-d127-42a7-9cca-682551798490,2890,Los Angeles,r0004,Historic,,Low Information Boundary,Yes,33.77737053,-118.1360135
+405,a7d36c71-4dcd-4fb6-951a-251f6788a729,2892,Los Angeles,r0004,Historic,,Unreviewed Boundary,Yes,33.98045994,-117.92849327
+407,cecc9477-3a0a-454f-923f-c38db191c53a,3182,Los Angeles,r0004,Historic,,Low Information Boundary,Yes,34.02490084,-118.77374221
+408,d30b5b70-d151-4cf0-be7c-b1f70ab4375b,2976,Orange,r0008,Potential,,Unreviewed Boundary,Yes,33.54835232,-117.78236239
+409,33f0447e-a5c9-40d3-bc2f-7aa8ab028533,2977,Orange,r0008,Historic,,Unreviewed Boundary,Yes,33.73381012,-118.00136803
+410,7538c599-86f8-40f3-a5f6-2f13d75b486b,2978,Orange,r0008,Historic,,Low Information Boundary,Yes,33.46552765,-117.69254117
+411,d9c56281-9853-476c-87cf-a821a7bef615,2955,Orange,r0008,Active,304,High Information Boundary,Yes,33.70561679,-118.00140928
+412,d3f4e7f9-cdf1-4387-8fa6-4c9b1c4aa07d,2975,Orange,r0008,Active,,High Information Boundary,Yes,33.70337997,-118.00366578
+413,2417484b-8685-4f37-b3b1-5f363a5bb926,2979,Orange,r0008,Historic,,Unreviewed Boundary,Yes,33.74914147,-118.06136514
+414,08349d6f-65dc-48a2-adc3-dc5f79f39cb6,2980,Orange,r0008,Historic,,Unreviewed Boundary,Yes,33.64586235,-117.94101026
+415,2a901e1e-55a3-439b-a739-00f6733a94e7,3011,Santa Cruz,r0014,Active,,Low Information Boundary,Yes,36.96620836,-121.99242321
+416,b6183330-7aeb-4697-8166-164833301a0f,3114,San Mateo,r0012,Historic Potential,,Unreviewed Boundary,No,37.50523319,-122.48168558
+417,b00f29d6-6b2c-4e7d-8ae7-5c26914cae9f,3152,Ventura,r0017,Active,,High Information Boundary,Yes,34.16890408,-119.15370006
+418,52597299-f54a-4483-ac2b-8da430c3391d,3169,Marin,r0005,Potential,,Low Information Boundary,Yes,37.90404823,-122.64222685
+419,e4955330-3538-4635-9dbe-3a42b2257bb9,3170,San Luis Obispo,r0011,Historic Potential,,Low Information Boundary,No,35.39345886,-120.86115835
+420,9e60a799-c672-435b-8ab9-6177fa3b1710,3177,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.41748588,-119.81626583
+421,c847b293-a53c-495d-894b-2482acf1bc22,3173,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.46351158,-120.9772511
+422,6261471a-37fc-4c3b-899f-acbee897a767,2831,Alameda,r0001,Active,244,High Information Boundary,Yes,37.55934952,-122.05035339
+423,f4665726-ddf5-4f69-864b-5bda21cc3b9b,3174,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.43252545,-119.82475705
+424,f9ed1fbf-e40b-43f1-8c48-43eb89e8faed,3176,Santa Barbara,r0013,Historic,,High Information Boundary,Yes,34.41750137,-119.78745454
+425,b508a618-b3fd-44f2-b180-6bf9699ec35b,3178,Santa Barbara,r0013,Historic,,Low Information Boundary,Yes,34.43116394,-119.90278988
+426,d597ddd5-027e-43b2-aab2-48b8c1234fd9,3179,Mendocino,r0006,Historic Potential,,Low Information Boundary,No,39.12696431,-123.71412718
+427,b4ded443-98a2-43ae-a90d-7f7a185ce326,3180,San Diego,r0009,Historic,,Low Information Boundary,Yes,32.83912498,-117.25908151
+428,c14882da-6d7e-4ea4-bcdb-b62c91a5156f,3181,Los Angeles,r0004,Active,,High Information Boundary,Yes,34.01791467,-118.47598058
+429,903ae644-42a5-40fb-873b-1c7289c6c12c,3042,San Francisco,r0010,Active,,High Information Boundary,Yes,37.7362101,-122.48221482
+430,9e3faeb7-4dde-47c2-acf4-f40371cc2089,3184,San Diego,r0009,Active,,High Information Boundary,Yes,33.0296061,-117.26305382
+431,ff11d409-dafc-4493-90e1-3574ac619e60,2916,Marin,r0005,Historic,236,High Information Boundary,No,37.92149785,-122.72297824
+432,8dbd0d7a-2385-4e2e-8e11-a7f5b977908f,3190,San Francisco,r0010,Potential,,Low Information Boundary,Yes,37.76870387,-122.47534351
+433,81a3554b-1077-43f3-aa2f-ed72fb7748a1,3057,San Luis Obispo,r0011,Active,124,High Information Boundary,Yes,35.35907168,-120.84808505
+434,0a830898-1e34-48c9-822f-95bd11bebf66,3185,Monterey,r0007,Active,,Low Information Boundary,Yes,35.88127518,-121.45077562
+435,cf3cb499-5b7c-456d-b65d-a4962ccf1461,3186,Monterey,r0007,Active,248,High Information Boundary,Yes,36.52035391,-121.94570312
+436,9d82db62-047c-42c1-9fbe-93edeafd0b81,3187,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.47632227,-120.14154422
+437,84867c3d-1440-4e7b-b396-27f77735a77d,3189,San Francisco,r0010,Historic,,High Information Boundary,Yes,37.82445533,-122.37101331
+438,2376016e-4143-4f59-b507-29b48988d124,3188,San Francisco,r0010,Historic,,Low Information Boundary,Yes,37.8089708,-122.3642569
+439,ac41e4f3-c35b-4d8e-b4c9-301e8a440e71,2904,Marin,r0005,Historic,17,Low Information Boundary,No,37.93557413,-122.74903069
+440,d1ec3e81-3931-4032-9519-1ec137430295,3210,Alameda,r0001,Active,,High Information Boundary,Yes,37.78880617,-122.29472455
+441,a96082d8-c1e1-4a63-8bad-69cdf37bc9f8,3211,San Luis Obispo,r0011,Potential,,Low Information Boundary,No,35.44109564,-120.89024397
+442,2438da99-1ccb-4fce-92e0-6b108b94b68b,3193,Ventura,r0017,Active,,High Information Boundary,Yes,34.27453464,-119.2784924
+443,e4de9be8-6ab4-406f-8771-12f73199bbc8,3194,San Francisco,r0010,Potential,,Low Information Boundary,No,37.71890131,-122.4191759
+444,3b03229f-5b43-45cb-ac17-50a45353e043,3196,Los Angeles,r0004,Historic Potential,,Unreviewed Boundary,Yes,33.81888521,-118.08664563
+445,f614fc5b-743b-47b3-8155-28bd3df03bf7,3197,Orange,r0008,Historic Potential,203,Unreviewed Boundary,Yes,33.70872412,-118.04118307
+446,dc6b762c-a27d-40da-bfa0-bba088cd093b,3198,Orange,r0008,Potential,,Low Information Boundary,Yes,33.41381109,-117.60288098
+447,ae2064a5-3e5d-4754-a032-50ee775cdf80,3199,Orange,r0008,Potential,,Unreviewed Boundary,Yes,33.74596266,-118.11088684
+448,09ee508c-9363-4211-9c1f-47e5450dcacd,3205,San Diego,r0009,Active,,High Information Boundary,Yes,32.94200337,-117.2563183
+449,ac6354c0-a1fa-4536-ba3f-a83c334d37c2,3195,Sonoma,r0016,Historic Potential,,High Information Boundary,Yes,38.74280886,-123.5014938
+450,45630693-cf30-43af-91dc-98c90e846aeb,3206,San Diego,r0009,Historic Potential,,Unreviewed Boundary,Yes,32.91527726,-117.24668609
+451,f2b48c35-a341-4cc6-8340-16a5a1ec606b,3200,Orange,r0008,Potential,,Low Information Boundary,Yes,33.42194409,-117.61289897
+452,300e92ac-5c11-4560-9856-21f67abd1b6e,3203,San Diego,r0009,Active,,High Information Boundary,Yes,33.24524101,-117.41541562
+453,823fe584-d1a7-473a-9f5a-f97751934bb2,3209,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.67536141,-120.55626252
+454,d9814e16-db64-4c66-9bd0-0404c56bf33c,3208,Santa Barbara,r0013,Active,,Low Information Boundary,Yes,34.47177575,-120.2290646
+455,8b747a99-18e8-4efa-b80b-2e5512901482,3017,San Diego,r0009,Historic,396,Unreviewed Boundary,Yes,32.73009957,-117.14820096
+456,446e92da-4803-4868-b1b9-a73d2f6b5619,3201,San Diego,r0009,Active,,High Information Boundary,Yes,32.57889189,-117.11527371
+457,eb514be0-8b36-48d5-9ed4-e9d2368721ce,3225,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.44855163,-119.7925284
+458,c5f5c117-ea04-4b00-8978-af0432f9cb05,3226,Marin,r0005,Active,,High Information Boundary,Yes,37.86008249,-122.58304959
+459,93f0137c-7a34-4946-9265-74e86e9b62ec,3227,Marin,r0005,Active,,High Information Boundary,Yes,37.89938461,-122.70205652
+460,f2615ef9-5839-406d-a395-a45544fb4adf,3228,Alameda,r0001,Active,,Low Information Boundary,Yes,37.85602798,-122.29768539
+461,00716600-3b7d-4c60-8f1a-4929cb6727bd,3229,Alameda,r0001,Active,,High Information Boundary,Yes,37.80632262,-122.25839673
+462,d563c8ac-cf07-4aee-83c9-682e4fa0858c,3232,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.06983809,-120.57888116
+463,d54cff57-de0e-4f87-b937-774fb80c1348,3233,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.39892608,-120.85817129
+464,e6b19eec-5ebb-4941-a647-faca7d7edc20,3214,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.05230266,-120.59371806
+465,4d95ebac-8d4e-4e6c-b9bc-de5d6f600335,3215,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.13158303,-120.6176489
+466,d6aa5f87-b08f-4f48-a99f-f45fabf6d691,3216,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.44631048,-119.80252784
+467,8ee1de4a-1efe-4beb-b1c6-788be2f28f71,3218,Los Angeles,r0004,Potential,,Low Information Boundary,Yes,33.76299511,-118.13695386
+468,cfbfed34-e608-4e8f-ac24-d3b4ba86129b,3219,San Diego,r0009,Potential,,Unreviewed Boundary,Yes,32.88499517,-117.23744608
+469,48146bb5-72fd-411e-a304-705d552c50a4,3222,San Luis Obispo,r0011,Active,,Low Information Boundary,Yes,35.5749951,-121.10800223
+470,5826d716-5bf3-4fa1-aeec-c692e48576bb,3212,Santa Barbara,r0013,Historic,379,Low Information Boundary,No,34.39799513,-119.49998759
+471,6948308c-3fc7-4392-bcc5-cffd6eb0821b,2695,Santa Barbara,r0011,Historic Potential,,Unreviewed Boundary,No,34.76109813,-120.48919732
+472,09780234-2353-4336-a505-3665f34706cc,2708,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.68230835,-120.53683772
+473,cb394f57-629d-4e96-ab92-213331bd1f99,3244,Los Angeles,r0004,Active,,Low Information Boundary,Yes,34.04059514,-118.89470213
+474,4145b41a-4418-4e55-b8d8-a24f946902cc,3243,Santa Barbara,r0011,Historic,,High Information Boundary,Yes,34.80353931,-120.58216903
+475,0ec2491f-5bdc-44d9-ba36-68573c65fef4,3241,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.45942906,-120.00104574
+476,737c9994-8550-4bd6-ab6c-af7c9e0fcadf,3242,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.92869322,-120.59526053
+477,32cc9df1-cb53-4d3c-a248-d75afc8d8c7b,3245,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.2761635,-120.66961256
+478,1cbc6259-c9d3-4f2f-8406-215d882672ee,3246,Santa Barbara,r0011,Active,,High Information Boundary,Yes,34.8556362,-120.60468316
+479,95731bc1-f778-4c85-a7b7-f1b1825e7075,3247,Baja California,r0023,Active,,High Information Boundary,Yes,31.88479947,-116.68721325
+480,6dffbde6-fe36-4de0-b004-2472eb336d4a,3250,Alameda,r0001,Active,,High Information Boundary,Yes,37.77083479,-122.29311473
+481,0c116e6b-9173-40e2-b8a4-cb78d2230467,3248,Monterey,r0007,Active,,Unreviewed Boundary,Yes,35.81244521,-121.37124785
+482,5d8ff17d-87a9-4eca-8340-8e9efd2d3ec4,3061,San Luis Obispo,r0011,Historic,128,Low Information Boundary,Yes,35.11256423,-120.6271733
+483,2a613e6e-23fc-4bae-926a-654246515139,2814,Santa Barbara,r0013,Historic,280,High Information Boundary,No,34.47531184,-120.20813337
+484,57be3fda-8297-4837-bbce-83f34a2712b5,2733,Santa Barbara,r0013,Active,282,Low Information Boundary,No,34.47479873,-120.20166111
+485,cc304325-eebc-4832-bb7b-2d4b147c835f,2815,Santa Barbara,r0013,Active,283,Low Information Boundary,No,34.47271805,-120.20405026
+486,4c9caf27-c180-4a0b-b785-768ac9568896,2732,Santa Barbara,r0013,Active,281,High Information Boundary,No,34.47171521,-120.20718384
+487,37be1a44-222b-47be-a24f-84a03f67de5c,2920,Monterey,r0007,Active,74,High Information Boundary,Yes,36.12529113,-121.63850895
+488,072ee4f5-c2de-4115-b11e-97cd413f4004,3082,San Luis Obispo,r0011,Active,292,High Information Boundary,Yes,35.11095688,-120.62782902
+489,c266d448-82f8-4c8e-92ca-79f990714d5e,3083,San Luis Obispo,r0011,Active,320,High Information Boundary,Yes,35.06250101,-120.5988969
+490,9b238a2d-b247-459f-9e5d-53b276e00525,3089,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.05645522,-120.60158137
+491,d4776a16-22f8-4227-9c84-4a14b8e0a12f,2946,Orange,r0008,Historic,205,Low Information Boundary,No,33.51444289,-117.65032826
+492,fb23a8aa-31ac-4654-9f02-4ccc3e28606f,3192,Monterey,r0007,Active,,Low Information Boundary,Yes,36.49177036,-121.93584196
+493,31759bdc-1b98-447b-b604-ad5d6aad70d6,3204,San Diego,r0009,Active,,High Information Boundary,Yes,33.38565657,-117.56824167
+494,5ceebf00-4bf8-4daa-909e-25f16d66591e,3223,Santa Barbara,r0013,Active,,Low Information Boundary,Yes,34.41511695,-119.56050986
+495,28de92e4-7b4c-474e-ab8e-77afa68eed9b,3224,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.41455157,-119.55884229
+496,1b02e34e-0069-4806-b728-2e08a83b1cc7,3230,Monterey,r0007,Active,,Low Information Boundary,Yes,36.49090808,-121.93398701
+497,a01f0e03-ede1-48bf-a5af-25a6cc9b86d0,3231,Monterey,r0007,Active,,Low Information Boundary,Yes,36.48499508,-121.93828501
+498,26fafb94-3d9a-48a2-86f3-214907ba2def,3235,Sonoma,r0016,Active,,Low Information Boundary,Yes,38.54604422,-123.29046504
+499,3b41f6a5-5909-4141-9b4b-fa4dd252ffbf,3258,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.77542669,-121.32656558
+500,9ee914c7-f25f-4773-8204-e534a9504acb,3257,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.77678178,-121.32704669
+501,3c8b3573-8d78-49c6-b194-80c01bd40dd3,3256,San Luis Obispo,r0011,Active,,Low Information Boundary,Yes,35.77814915,-121.32644874
+502,06f9586c-0f9b-42fb-b26c-62fc1d0ccc8d,3259,Los Angeles,r0004,Active,,High Information Boundary,Yes,33.86358385,-118.39496023
+503,d39cf3a1-ec2f-43ee-89a1-febfbfa27232,3260,Los Angeles,r0004,Active,,High Information Boundary,Yes,34.00448885,-118.48908918
+504,4e20b2a1-b836-4481-bf13-6baae1f28856,3255,Alameda,r0001,Active,,High Information Boundary,Yes,37.88581907,-122.29870505
+505,a08481eb-565f-49d2-a265-82e51fe8e06f,3253,Baja California,r0023,Active,,High Information Boundary,Yes,32.44540395,-117.09960639
+506,fe29577c-382d-4ce0-bdd1-e18853702bfd,3254,San Diego,r0009,Active,,Unreviewed Boundary,Yes,33.21241092,-117.32780415
+507,38a9b700-3c9a-4349-b9f9-dcb061439f54,3060,San Luis Obispo,r0011,Active,127,High Information Boundary,Yes,35.12951023,-120.63239455
+508,e173447e-3df5-4b00-b12e-32dbf8bbcfb9,3266,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.45365018,-120.90774175
+509,9f39277c-a172-4a8c-aedf-ff432540d009,3262,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.428738,-120.88077849
+510,7578b2f7-b506-41d9-8174-58a5b78ccd8a,3264,Alameda,r0001,Active,,High Information Boundary,Yes,37.76863212,-122.26193211
+511,4ed48903-339d-4b3e-9fb3-ca4615770ad7,3265,Alameda,r0001,Active,,High Information Boundary,Yes,37.75818083,-122.23026183
+512,d47addb6-6b90-41af-8d65-11dfcfca15db,3268,San Luis Obispo,r0011,Active,,High Information Boundary,Yes,35.64232662,-121.19528937
+513,e0bf19f6-7e64-4cb8-8dae-58b78a7dc994,3267,San Luis Obispo,r0011,Active,,Low Information Boundary,Yes,35.6380691,-121.19550385
+514,69638eb4-5842-473e-afcb-dc40effa5af9,3270,Contra Costa,r0002,Historic,,Low Information Boundary,No,37.91503943,-122.32884905
+515,1663db39-f57b-44a7-a2bb-017b9f0bf6a0,3251,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.42546537,-119.89663334
+516,3383ec39-d030-4be4-bbcb-eb0b0abc7185,3263,San Luis Obispo,r0011,Active,,Low Information Boundary,Yes,35.09898269,-120.62047107
+517,d5063657-8bae-4b3e-8b55-7e960fe27f46,3096,San Luis Obispo,r0011,Historic,,Low Information Boundary,Yes,35.02999772,-120.47184169
+518,4cf5b6f9-2801-4c38-b7d4-accbf9a36863,3207,Orange,r0008,Historic Potential,,Unreviewed Boundary,Yes,33.51336339,-117.74548341
+519,5d960f31-50af-4936-8ceb-1338bb926690,3202,San Diego,r0009,Historic,,Low Information Boundary,Yes,33.23117089,-117.39761181
+520,9eaf4884-1956-4958-b101-7d4cd0077d83,3006,Santa Cruz,r0014,Active,217,Unreviewed Boundary,Yes,36.9692778,-121.8888344
+525,0db22801-bc3f-46c6-b211-ad55f5f88b89,3213,San Francisco,r0010,Potential,,Low Information Boundary,Yes,37.79913869,-122.45483927
+526,2471b530-b96c-47f2-b2b2-81348c97ff56,3236,San Francisco,r0010,Potential,,Low Information Boundary,Yes,37.79749524,-122.45592835
+527,40349c04-c8d5-4bfd-8350-a919b372c825,3237,Los Angeles,r0004,Potential,,Unreviewed Boundary,No,34.03486098,-118.84126045
+529,c54dc93f-434f-4a55-a8b5-d5f66fa666b1,3261,Orange,r0008,Historic Potential,,Low Information Boundary,No,33.5237933,-117.64901281
+530,22810d56-f6b7-4419-a30f-18da50b63ffe,3269,Ventura,r0017,,,,Yes,,
+531,5e9254ab-99bc-4734-b4eb-7e53157a607f,3272,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.58472746,-120.62898893
+532,9b7a4f53-88be-4f98-8f5f-21ed76f85751,3273,Santa Barbara,r0013,Potential,,Low Information Boundary,No,34.71295407,-120.60157962
+533,c2f91693-96d1-4310-9c3a-57d2e87e6cd6,3274,San Luis Obispo,r0010,Active,,High Information Boundary,Yes,35.78188245,-121.32914394
+534,5c88c107-be6c-4506-913e-b0cb27bedafa,3276,San Diego,r0009,Active,,High Information Boundary,Yes,33.2999256,-117.4587232
+535,ef148f57-0978-48ea-a0e2-16a302350f5f,3277,Los Angeles,r0004,Active,,High Information Boundary,Yes,34.0414981,-118.5814034
+602,49e5f6b0-3237-4102-8b4e-08faf4839866,3288,San Luis Obispo,r0011,Active,,High Information Boundary,No,,
+603,e9fdbd4d-e5c0-4a24-96b6-68ace6793874,3289,Santa Clara,r0025,Active,,Unreviewed Boundary,No,,
+604,7c3ebec3-ee10-4a49-9efc-784b1fe36b27,3290,Alameda,r0001,Active,,High Information Boundary,No,37.7365666,-122.2348801
+606,0d2fcedc-17b8-405b-b8fb-d28146d1cd5b,3279,"Phoenix, AZ",r0021,Potential,,Low Information Boundary,Yes,,
+607,f8d98b4e-840f-4981-9923-5d6ff1c2d514,3280,"Tempe, AZ",r0021,Historic Potential,,Low Information Boundary,Yes,,
+608,2292e516-9c95-4d79-957f-9803268cda49,3281,"Phoenix, AZ",r0021,Potential,,Low Information Boundary,Yes,,
+609,df1f89c6-ff59-4147-8d9a-de696ffcc4d9,3282,"Phoenix, AZ",r0021,Potential,,Low Information Boundary,Yes,,
+610,b656079b-dfb6-4aed-be19-809fb02a7668,3283,"Phoenix, AZ",r0021,Potential,,Low Information Boundary,Yes,,
+611,9b418caf-9125-4ffa-aef8-715f341e3f6d,3284,"Lake Havasu, AZ",r0021,Active,,High Information Boundary,Yes,,
+612,a986c73e-8626-4b02-ba73-f95b87cd6a16,3285,"Scottsdale, AZ",r0021,Active,,High Information Boundary,Yes,,
+613,6fa98e3f-75fe-433e-a4e7-7e216f111ce7,3286,"Phoenix, AZ",r0021,Active,,Low Information Boundary,Yes,,
+614,f6b52d09-0efd-4761-8e20-13cb07265d1a,3278,"Parker, AZ",r0021,Potential,,Unreviewed Boundary,Yes,,
+615,39325f92-d42c-4ae7-ae26-a2db526b908f,3291,Santa Barbara,r0013,Historic Potential,,Low Information Boundary,,,
+616,725a5434-761a-453a-9f97-62950bd38ada,3292,San Luis Obispo,r0011,Potential,,Low Information Boundary,,,
+617,d57a858e-a826-4938-966c-80d35a6ef5ad,3293,Baja California,r0023,Potential,,Low Information Boundary,,,
+618,e5b5b8af-0242-485f-acc9-745d95725576,3294,Santa Clara,r0025,Active,,High Information Boundary,,,
+4955,69002126-33ab-449e-8938-f12115b15030,3296,Santa Barbara,r0013,Active,,High Information Boundary,Yes,34.7130372,-120.6010438
+4956,206cc96f-b056-4550-a2d8-9de1382fdeb6,3297,Contra Costa,r0002,Active,,,Yes,38.03725411,-122.27216946
